@@ -1,0 +1,7 @@
+{
+    "type": "monkeyc",
+    "request": "launch",
+    "name": "Run Tests",
+    "runTests": true,
+    "device": "${command:GetTargetDevice}"
+}

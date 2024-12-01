@@ -1,0 +1,26 @@
+<resources>
+    <layout id="ScanningLayout">
+        <bitmap id="actionScanning" personality="
+            system_icon_light__about
+            system_icon_dark__about
+            prompt_loc__title_icon
+            prompt_size__title_icon
+        " />
+
+        <text-area text="@Strings.Scanning" personality="
+            prompt_color_dark__body
+            prompt_size__body_with_title
+            prompt_loc__body_with_title
+            prompt_font__body_with_title
+        " />
+    </layout>
+
+    <layout id="LocatorLayout">
+        <text-area id="signalLocator" text="..." personality="
+            prompt_color_dark__body
+            prompt_size__body_with_title
+            prompt_loc__body_with_title
+            prompt_font__body_with_title
+        " />
+    </layout>
+</resources>

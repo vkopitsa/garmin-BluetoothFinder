@@ -1,0 +1,782 @@
+[
+    [
+        [76, 0],
+        [18, 25, 16],
+        [255, 0, 24],
+        "Air Tag"
+    ],
+    [
+        [76, 0],
+        [18, 25, 24],
+        [255, 0, 24],
+        "Air Pods"
+    ],
+    [
+        [76, 0],
+        [18, 25],
+        [255, 0],
+        "Apple Device"
+    ],
+    [
+        [117, 0],
+        [0],
+        [0],
+        "Samsung Device"
+    ],
+    [
+        [0, 0],
+        [0],
+        [0],
+        "Ericsson Technology Licensing"
+    ],
+    [
+        [1, 0],
+        [0],
+        [0],
+        "Nokia Mobile Phones"
+    ],
+    [
+        [2, 0],
+        [0],
+        [0],
+        "Intel Corp."
+    ],
+    [
+        [3, 0],
+        [0],
+        [0],
+        "IBM Corp."
+    ],
+    [
+        [4, 0],
+        [0],
+        [0],
+        "Toshiba Corp."
+    ],
+    [
+        [5, 0],
+        [0],
+        [0],
+        "3Com"
+    ],
+    [
+        [6, 0],
+        [0],
+        [0],
+        "Microsoft"
+    ],
+    [
+        [7, 0],
+        [0],
+        [0],
+        "Lucent"
+    ],
+    [
+        [8, 0],
+        [0],
+        [0],
+        "Motorola"
+    ],
+    [
+        [9, 0],
+        [0],
+        [0],
+        "Infineon Technologies AG"
+    ],
+    [
+        [10, 0],
+        [0],
+        [0],
+        "Cambridge Silicon Radio"
+    ],
+    [
+        [11, 0],
+        [0],
+        [0],
+        "Silicon Wave"
+    ],
+    [
+        [12, 0],
+        [0],
+        [0],
+        "Digianswer A/S"
+    ],
+    [
+        [13, 0],
+        [0],
+        [0],
+        "Texas Instruments Inc."
+    ],
+    [
+        [14, 0],
+        [0],
+        [0],
+        "Ceva, Inc. (formerly Parthus Technologies, Inc.)"
+    ],
+    [
+        [15, 0],
+        [0],
+        [0],
+        "Broadcom Corporation"
+    ],
+    [
+        [16, 0],
+        [0],
+        [0],
+        "Mitel Semiconductor"
+    ],
+    [
+        [17, 0],
+        [0],
+        [0],
+        "Widcomm, Inc"
+    ],
+    [
+        [18, 0],
+        [0],
+        [0],
+        "Zeevo, Inc."
+    ],
+    [
+        [19, 0],
+        [0],
+        [0],
+        "Atmel Corporation"
+    ],
+    [
+        [20, 0],
+        [0],
+        [0],
+        "Mitsubishi Electric Corporation"
+    ],
+    [
+        [21, 0],
+        [0],
+        [0],
+        "RTX Telecom A/S"
+    ],
+    [
+        [22, 0],
+        [0],
+        [0],
+        "KC Technology Inc."
+    ],
+    [
+        [23, 0],
+        [0],
+        [0],
+        "NewLogic"
+    ],
+    [
+        [24, 0],
+        [0],
+        [0],
+        "Transilica, Inc."
+    ],
+    [
+        [25, 0],
+        [0],
+        [0],
+        "Rohde & Schwarz GmbH & Co. KG"
+    ],
+    [
+        [26, 0],
+        [0],
+        [0],
+        "TTPCom Limited"
+    ],
+    [
+        [27, 0],
+        [0],
+        [0],
+        "Signia Technologies, Inc."
+    ],
+    [
+        [28, 0],
+        [0],
+        [0],
+        "Conexant Systems Inc."
+    ],
+    [
+        [29, 0],
+        [0],
+        [0],
+        "Qualcomm"
+    ],
+    [
+        [30, 0],
+        [0],
+        [0],
+        "Inventel"
+    ],
+    [
+        [31, 0],
+        [0],
+        [0],
+        "AVM Berlin"
+    ],
+    [
+        [32, 0],
+        [0],
+        [0],
+        "BandSpeed, Inc."
+    ],
+    [
+        [33, 0],
+        [0],
+        [0],
+        "Mansella Ltd"
+    ],
+    [
+        [34, 0],
+        [0],
+        [0],
+        "NEC Corporation"
+    ],
+    [
+        [35, 0],
+        [0],
+        [0],
+        "WavePlus Technology Co., Ltd."
+    ],
+    [
+        [36, 0],
+        [0],
+        [0],
+        "Alcatel"
+    ],
+    [
+        [37, 0],
+        [0],
+        [0],
+        "NXP Semiconductors (formerly Philips Semiconductors)"
+    ],
+    [
+        [38, 0],
+        [0],
+        [0],
+        "C Technologies"
+    ],
+    [
+        [39, 0],
+        [0],
+        [0],
+        "Open Interface"
+    ],
+    [
+        [40, 0],
+        [0],
+        [0],
+        "R F Micro Devices"
+    ],
+    [
+        [41, 0],
+        [0],
+        [0],
+        "Hitachi Ltd"
+    ],
+    [
+        [42, 0],
+        [0],
+        [0],
+        "Symbol Technologies, Inc."
+    ],
+    [
+        [43, 0],
+        [0],
+        [0],
+        "Tenovis"
+    ],
+    [
+        [44, 0],
+        [0],
+        [0],
+        "Macronix International Co. Ltd."
+    ],
+    [
+        [45, 0],
+        [0],
+        [0],
+        "GCT Semiconductor"
+    ],
+    [
+        [46, 0],
+        [0],
+        [0],
+        "Norwood Systems"
+    ],
+    [
+        [47, 0],
+        [0],
+        [0],
+        "MewTel Technology Inc."
+    ],
+    [
+        [48, 0],
+        [0],
+        [0],
+        "ST Microelectronics"
+    ],
+    [
+        [49, 0],
+        [0],
+        [0],
+        "Synopsis"
+    ],
+    [
+        [50, 0],
+        [0],
+        [0],
+        "Red-M (Communications) Ltd"
+    ],
+    [
+        [51, 0],
+        [0],
+        [0],
+        "Commil Ltd"
+    ],
+    [
+        [52, 0],
+        [0],
+        [0],
+        "Computer Access Technology Corporation (CATC)"
+    ],
+    [
+        [53, 0],
+        [0],
+        [0],
+        "Eclipse (HQ Espana) S.L."
+    ],
+    [
+        [54, 0],
+        [0],
+        [0],
+        "Renesas Electronics Corporation"
+    ],
+    [
+        [55, 0],
+        [0],
+        [0],
+        "Mobilian Corporation"
+    ],
+    [
+        [56, 0],
+        [0],
+        [0],
+        "Terax"
+    ],
+    [
+        [57, 0],
+        [0],
+        [0],
+        "Integrated System Solution Corp."
+    ],
+    [
+        [58, 0],
+        [0],
+        [0],
+        "Matsushita Electric Industrial Co., Ltd."
+    ],
+    [
+        [59, 0],
+        [0],
+        [0],
+        "Gennum Corporation"
+    ],
+    [
+        [60, 0],
+        [0],
+        [0],
+        "BlackBerry Limited (formerly Research In Motion)"
+    ],
+    [
+        [61, 0],
+        [0],
+        [0],
+        "IPextreme, Inc."
+    ],
+    [
+        [62, 0],
+        [0],
+        [0],
+        "Systems and Chips, Inc."
+    ],
+    [
+        [63, 0],
+        [0],
+        [0],
+        "Bluetooth SIG, Inc."
+    ],
+    [
+        [64, 0],
+        [0],
+        [0],
+        "Seiko Epson Corporation"
+    ],
+    [
+        [65, 0],
+        [0],
+        [0],
+        "Integrated Silicon Solution Taiwan, Inc."
+    ],
+    [
+        [66, 0],
+        [0],
+        [0],
+        "CONWISE Technology Corporation Ltd"
+    ],
+    [
+        [67, 0],
+        [0],
+        [0],
+        "PARROT SA"
+    ],
+    [
+        [68, 0],
+        [0],
+        [0],
+        "Socket Mobile"
+    ],
+    [
+        [69, 0],
+        [0],
+        [0],
+        "Atheros Communications, Inc."
+    ],
+    [
+        [70, 0],
+        [0],
+        [0],
+        "MediaTek, Inc."
+    ],
+    [
+        [71, 0],
+        [0],
+        [0],
+        "Bluegiga"
+    ],
+    [
+        [72, 0],
+        [0],
+        [0],
+        "Marvell Technology Group Ltd."
+    ],
+    [
+        [73, 0],
+        [0],
+        [0],
+        "3DSP Corporation"
+    ],
+    [
+        [74, 0],
+        [0],
+        [0],
+        "Accel Semiconductor Ltd."
+    ],
+    [
+        [75, 0],
+        [0],
+        [0],
+        "Continental Automotive Systems"
+    ],
+    [
+        [77, 0],
+        [0],
+        [0],
+        "Staccato Communications, Inc."
+    ],
+    [
+        [78, 0],
+        [0],
+        [0],
+        "Avago Technologies"
+    ],
+    [
+        [79, 0],
+        [0],
+        [0],
+        "APT Licensing Ltd."
+    ],
+    [
+        [80, 0],
+        [0],
+        [0],
+        "SiRF Technology"
+    ],
+    [
+        [81, 0],
+        [0],
+        [0],
+        "Tzero Technologies, Inc."
+    ],
+    [
+        [82, 0],
+        [0],
+        [0],
+        "J&M Corporation"
+    ],
+    [
+        [83, 0],
+        [0],
+        [0],
+        "Free2move AB"
+    ],
+    [
+        [84, 0],
+        [0],
+        [0],
+        "3DiJoy Corporation"
+    ],
+    [
+        [85, 0],
+        [0],
+        [0],
+        "Plantronics, Inc."
+    ],
+    [
+        [86, 0],
+        [0],
+        [0],
+        "Sony Ericsson Mobile Communications"
+    ],
+    [
+        [87, 0],
+        [0],
+        [0],
+        "Harman International Industries, Inc."
+    ],
+    [
+        [88, 0],
+        [0],
+        [0],
+        "Vizio, Inc."
+    ],
+    [
+        [89, 0],
+        [0],
+        [0],
+        "Nordic Semiconductor ASA"
+    ],
+    [
+        [90, 0],
+        [0],
+        [0],
+        "EM Microelectronic-Marin SA"
+    ],
+    [
+        [91, 0],
+        [0],
+        [0],
+        "Ralink Technology Corporation"
+    ],
+    [
+        [92, 0],
+        [0],
+        [0],
+        "Belkin International, Inc."
+    ],
+    [
+        [93, 0],
+        [0],
+        [0],
+        "Realtek Semiconductor Corporation"
+    ],
+    [
+        [94, 0],
+        [0],
+        [0],
+        "Stonestreet One, LLC"
+    ],
+    [
+        [95, 0],
+        [0],
+        [0],
+        "Wicentric, Inc."
+    ],
+    [
+        [96, 0],
+        [0],
+        [0],
+        "RivieraWaves S.A.S"
+    ],
+    [
+        [97, 0],
+        [0],
+        [0],
+        "RDA Microelectronics"
+    ],
+    [
+        [98, 0],
+        [0],
+        [0],
+        "Gibson Guitars"
+    ],
+    [
+        [99, 0],
+        [0],
+        [0],
+        "MiCommand Inc."
+    ],
+    [
+        [100, 0],
+        [0],
+        [0],
+        "Band XI International, LLC"
+    ],
+    [
+        [101, 0],
+        [0],
+        [0],
+        "Hewlett-Packard Company"
+    ],
+    [
+        [102, 0],
+        [0],
+        [0],
+        "9Solutions Oy"
+    ],
+    [
+        [103, 0],
+        [0],
+        [0],
+        "GN Netcom A/S"
+    ],
+    [
+        [104, 0],
+        [0],
+        [0],
+        "General Motors"
+    ],
+    [
+        [105, 0],
+        [0],
+        [0],
+        "A&D Engineering, Inc."
+    ],
+    [
+        [106, 0],
+        [0],
+        [0],
+        "MindTree Ltd."
+    ],
+    [
+        [107, 0],
+        [0],
+        [0],
+        "Polar Electro OY"
+    ],
+    [
+        [108, 0],
+        [0],
+        [0],
+        "Beautiful Enterprise Co., Ltd."
+    ],
+    [
+        [109, 0],
+        [0],
+        [0],
+        "BriarTek, Inc."
+    ],
+    [
+        [110, 0],
+        [0],
+        [0],
+        "Summit Data Communications, Inc."
+    ],
+    [
+        [111, 0],
+        [0],
+        [0],
+        "Sound ID"
+    ],
+    [
+        [112, 0],
+        [0],
+        [0],
+        "Monster, LLC"
+    ],
+    [
+        [113, 0],
+        [0],
+        [0],
+        "connectBlue AB"
+    ],
+    [
+        [114, 0],
+        [0],
+        [0],
+        "ShangHai Super Smart Electronics Co. Ltd."
+    ],
+    [
+        [115, 0],
+        [0],
+        [0],
+        "Group Sense Ltd."
+    ],
+    [
+        [116, 0],
+        [0],
+        [0],
+        "Zomm, LLC"
+    ],
+    [
+        [118, 0],
+        [0],
+        [0],
+        "Creative Technology Ltd."
+    ],
+    [
+        [119, 0],
+        [0],
+        [0],
+        "Laird Technologies"
+    ],
+    [
+        [120, 0],
+        [0],
+        [0],
+        "Nike, Inc."
+    ],
+    [
+        [121, 0],
+        [0],
+        [0],
+        "lesswire AG"
+    ],
+    [
+        [122, 0],
+        [0],
+        [0],
+        "MStar Semiconductor, Inc."
+    ],
+    [
+        [123, 0],
+        [0],
+        [0],
+        "Hanlynn Technologies"
+    ],
+    [
+        [124, 0],
+        [0],
+        [0],
+        "A & R Cambridge"
+    ],
+    [
+        [125, 0],
+        [0],
+        [0],
+        "Seers Technology Co. Ltd"
+    ],
+    [
+        [126, 0],
+        [0],
+        [0],
+        "Sports Tracking Technologies Ltd."
+    ],
+    [
+        [127, 0],
+        [0],
+        [0],
+        "Autonet Mobile"
+    ]
+]

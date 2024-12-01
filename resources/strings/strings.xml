@@ -1,0 +1,40 @@
+<strings>
+    <string id="AppName">Bluetooth Finder</string>
+
+    <string id="Scanning">Scanning...</string>
+    <string id="Locator">Locator</string>
+
+    <string id="Flags">Flags</string>
+    <string id="IncompleteListof16bitServiceClassUUIDs">IncompleteListof16bitServiceClassUUIDs</string>
+    <string id="CompleteListof16bitServiceClassUUIDs">CompleteListof16bitServiceClassUUIDs</string>
+    <string id="IncompleteListof32bitServiceClassUUIDs">IncompleteListof32bitServiceClassUUIDs</string>
+    <string id="CompleteListof32bitServiceClassUUIDs">CompleteListof32bitServiceClassUUIDs</string>
+    <string id="IncompleteListof128bitServiceClassUUIDs">IncompleteListof128bitServiceClassUUIDs</string>
+    <string id="CompleteListof128bitServiceClassUUIDs">CompleteListof128bitServiceClassUUIDs</string>
+    <string id="ShortenedLocalName">ShortenedLocalName</string>
+    <string id="CompleteLocalName">CompleteLocalName</string>
+    <string id="TxPowerLevel">TxPowerLevel</string>
+    <string id="ClassofDevice">ClassofDevice</string>
+    <string id="SimplePairingHashC">SimplePairingHashC</string>
+    <string id="SimplePairingRandomizerR">SimplePairingRandomizerR</string>
+    <string id="DeviceID">DeviceID</string>
+    <string id="SecurityManagerOutofBandFlags">SecurityManagerOutofBandFlags</string>
+    <string id="SlaveConnectionIntervalRange">SlaveConnectionIntervalRange</string>
+    <string id="Listof16bitServiceSolicitationUUIDs">Listof16bitServiceSolicitationUUIDs</string>
+    <string id="Listof32bitServiceSolicitationUUIDs">Listof32bitServiceSolicitationUUIDs</string>
+    <string id="Listof128bitServiceSolicitationUUIDs">Listof128bitServiceSolicitationUUIDs</string>
+    <string id="ServiceData">ServiceData</string>
+    <string id="PublicTargetAddress">PublicTargetAddress</string>
+    <string id="RandomTargetAddress">RandomTargetAddress</string>
+    <string id="Appearance">Appearance</string>
+    <string id="AdvertisingInterval">AdvertisingInterval</string>
+    <string id="LEBluetoothDeviceAddress">LEBluetoothDeviceAddress</string>
+    <string id="LERole">LERole</string>
+    <string id="SimplePairingHashC256">SimplePairingHashC256</string>
+    <string id="SimplePairingRandomizerR256">SimplePairingRandomizerR256</string>
+    <string id="ServiceData32bitUUID">ServiceData32bitUUID</string>
+    <string id="ServiceData128bitUUID">ServiceData128bitUUID</string>
+    <string id="InformationData3D">InformationData3D</string>
+    <string id="ManufacturerSpecificData">ManufacturerSpecificData</string>
+    <string id="Unknown">Unknown</string>
+</strings>

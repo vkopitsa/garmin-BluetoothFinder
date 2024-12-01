@@ -1,0 +1,146 @@
+[
+    [
+        [76, 0],
+        [18, 25, 16],
+        [255, 0, 24],
+        "Air Tag"
+    ],
+    [
+        [76, 0],
+        [18, 25, 24],
+        [255, 0, 24],
+        "Air Pods"
+    ],
+    [
+        [76, 0],
+        [18, 25],
+        [255, 0],
+        "Apple Device"
+    ],
+    [
+        [117, 0],
+        [0],
+        [0],
+        "Samsung Device"
+    ],
+    [
+        [0, 0],
+        [0],
+        [0],
+        "Ericsson Technology Licensing"
+    ],
+    [
+        [1, 0],
+        [0],
+        [0],
+        "Nokia Mobile Phones"
+    ],
+    [
+        [2, 0],
+        [0],
+        [0],
+        "Intel Corp."
+    ],
+    [
+        [3, 0],
+        [0],
+        [0],
+        "IBM Corp."
+    ],
+    [
+        [4, 0],
+        [0],
+        [0],
+        "Toshiba Corp."
+    ],
+    [
+        [6, 0],
+        [0],
+        [0],
+        "Microsoft"
+    ],
+    [
+        [8, 0],
+        [0],
+        [0],
+        "Motorola"
+    ],
+    [
+        [13, 0],
+        [0],
+        [0],
+        "Texas Instruments Inc."
+    ],
+    [
+        [15, 0],
+        [0],
+        [0],
+        "Broadcom Corporation"
+    ],
+    [
+        [19, 0],
+        [0],
+        [0],
+        "Atmel Corporation"
+    ],
+    [
+        [29, 0],
+        [0],
+        [0],
+        "Qualcomm"
+    ],
+    [
+        [34, 0],
+        [0],
+        [0],
+        "NEC Corporation"
+    ],
+    [
+        [41, 0],
+        [0],
+        [0],
+        "Hitachi Ltd"
+    ],
+    [
+        [70, 0],
+        [0],
+        [0],
+        "MediaTek, Inc."
+    ],
+    [
+        [89, 0],
+        [0],
+        [0],
+        "Nordic Semiconductor ASA"
+    ],
+    [
+        [93, 0],
+        [0],
+        [0],
+        "Realtek Semiconductor Corporation"
+    ],
+    [
+        [99, 0],
+        [0],
+        [0],
+        "MiCommand Inc."
+    ],
+    [
+        [100, 0],
+        [0],
+        [0],
+        "Band XI International, LLC"
+    ],
+    [
+        [104, 0],
+        [0],
+        [0],
+        "General Motors"
+    ],
+    [
+        [127, 0],
+        [0],
+        [0],
+        "Autonet Mobile"
+    ]
+]
