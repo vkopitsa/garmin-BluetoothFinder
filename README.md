@@ -13,7 +13,7 @@ Key Features:
 
 ---
 
-[<img src="https://developer.garmin.com/static/available-badge-9e49ebfb7336ce47f8df66dfe45d28ae.svg" width="200">](https://apps.garmin.com/apps/94306907-6233-4e81-a850-e2af6d2730b8)
+[<img src="https://developer.garmin.com/static/available-badge-9e49ebfb7336ce47f8df66dfe45d28ae.svg" width="200">](https://apps.garmin.com/apps/6ccf2835-102d-4181-adef-f780730632b1)
 
 ## Others
 
